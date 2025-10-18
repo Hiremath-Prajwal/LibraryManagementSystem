@@ -54,7 +54,7 @@ It provides functionalities for managing books, patrons, and lending operations,
 
 The project follows the below UML structure:
 
-![UML Diagram](LibraryManagementSystem/src/images/library_uml.png)
+![UML Diagram](images/library_uml.png)
 
 ---
 
